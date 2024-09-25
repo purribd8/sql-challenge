@@ -1,4 +1,4 @@
-# sql-challenge
+# SQL-challenge
 
 This repository contains an SQL-based analysis of employee data. The project showcases how SQL queries can be used to extract and analyze key information.
 
